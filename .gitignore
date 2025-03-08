@@ -1,0 +1,47 @@
+# Dart & Flutter package dependencies
+.dart_tool/
+.packages
+
+# Flutter-specific build files
+build/
+android/.gradle/
+android/app/generated/
+ios/Pods/
+ios/.symlinks/
+macos/Pods/
+web/.dart_tool/
+linux/.dart_tool/
+windows/.dart_tool/
+
+# Xcode build files (for macOS & iOS)
+**/xcuserdata/
+**/DerivedData/
+*.xcworkspace/
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework/
+ios/Flutter/Flutter.framework/
+ios/.generated/
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.iml
+
+# Debug and crash logs
+*.log
+.crash/
+*.pid
+*.seed
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files (in case of cross-platform work)
+Thumbs.db
