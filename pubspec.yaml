@@ -39,6 +39,7 @@ dependencies:
 
   permission_handler: ^11.0.1  # Use the latest version
   flutter_launcher_icons: ^0.14.3
+  wifi_iot: ^0.3.19
 
 dev_dependencies:
   flutter_test:
